@@ -60,8 +60,7 @@ class TableViewController: UITableViewController {
         cell.nameOfSongLabel.text? = song.name
         cell.lengthOfSongLabel.text? = song.length
         
-        return cell
-    }
+        return cell    }
  
 
 }
